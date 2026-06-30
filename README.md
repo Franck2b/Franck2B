@@ -79,31 +79,46 @@ Suivi, mises à jour, corrections de bugs et évolutions sur le long terme pour 
 
 <br/>
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Franck2b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Franck2b&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck2b&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<br/>
-
 ## 📌 Projets épinglés
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Franck2b/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Franck2b&repo=Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Franck2b/Securite-Web-TP-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Franck2b&repo=Securite-Web-TP-1&theme=tokyonight&hide_border=true" />
-</a>
+### 🗂️ [Portfolio](https://github.com/Franck2b/Portfolio)
+Mon portfolio personnel développé en **TypeScript**, présentant mes projets et compétences.
 
-</div>
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 [Securite-Web-TP-1](https://github.com/Franck2b/Securite-Web-TP-1)
+Travaux pratiques autour de la sécurité des applications web.
+
+`Sécurité` `Web`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [Securite-Web-TP-2](https://github.com/Franck2b/Securite-Web-TP-2)
+Suite des travaux pratiques sur la sécurité web — bonnes pratiques et mise en application.
+
+`Sécurité` `Web`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Kult-Website](https://github.com/Franck2b/Kult-Website)
+Projet web réalisé en **TypeScript**.
+
+`TypeScript`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
