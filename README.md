@@ -94,29 +94,6 @@ Mon portfolio personnel développé en **TypeScript**, présentant mes projets e
 </td>
 <td width="50%" valign="top">
 
-### 🔒 [Securite-Web-TP-1](https://github.com/Franck2b/Securite-Web-TP-1)
-Travaux pratiques autour de la sécurité des applications web.
-
-`Sécurité` `Web`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 [Securite-Web-TP-2](https://github.com/Franck2b/Securite-Web-TP-2)
-Suite des travaux pratiques sur la sécurité web — bonnes pratiques et mise en application.
-
-`Sécurité` `Web`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Kult-Website](https://github.com/Franck2b/Kult-Website)
-Projet web réalisé en **TypeScript**.
-
-`TypeScript`
-
 </td>
 </tr>
 </table>
