@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Franck%20Poletti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20SEO&descAlignY=55&descSize=20" width="100%"/>
-
 <a href="https://web-fp-steel.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-web--fp--steel.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
