@@ -92,9 +92,6 @@ Mon portfolio personnel développé en **TypeScript**, présentant mes projets e
 `TypeScript`
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
