@@ -23,7 +23,7 @@
 
 ## 👋 À propos de moi
 
-🚀 **Full Stack Developer** basé à **Lyon**, je conçois et développe des applications web et mobiles de bout en bout : du prototypage à la mise en production, en passant par l'optimisation **SEO** et la **maintenance** sur le long terme.
+🚀 **Full Stack Developer** basé à **Lyon** et en **Corse**, je conçois et développe des applications web et mobiles de bout en bout : du prototypage à la mise en production, en passant par l'optimisation **SEO** et la **maintenance** sur le long terme.
 
 🎓 Parcours **Ex-Epitech**, actuellement en **M1 à l'EEMI Lyon**.
 
